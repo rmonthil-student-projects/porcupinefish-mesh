@@ -4,6 +4,8 @@ Originally a school project at the INP-ENSEEIHT engineering school. The aim was 
 
 As this project was an opportunity to learn how to use [gmsh](http://gmsh.info), the script is far from perfect but at least it could help someone to do something better.
 
+![Picture of a simulation non inflated.](https://github.com/LeDernier/porcupinefish/blob/master/img/PoissonComplet.png)
+
 ## Getting Started
 
 Clone or download the project and unzip it. 
@@ -41,8 +43,6 @@ And reload the file using gmsh. It may take a while.
 This images are here to show that the mesh generated could run in [OpenFOAM](https://www.openfoam.com). 
 The parameters used, choosen because of computation cost, did make the simulation physicaly incorect.
 The result was visualized using [Paraview](https://www.paraview.org).
-
-![Picture of a simulation non inflated.](https://github.com/LeDernier/porcupinefish/blob/master/img/PoissonComplet.png)
 
 ![Picture of a simulation inflated.](https://github.com/LeDernier/porcupinefish/blob/master/img/PoissonGonfle.png)
 
