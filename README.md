@@ -40,6 +40,7 @@ And reload the file using gmsh. It may take a while.
 
 This images are here to show that the mesh generated could run in [OpenFOAM](https://www.openfoam.com). 
 The parameters used, choosen because of computation cost, did make the simulation physicaly incorect.
+The result was visualized using [Paraview](https://www.paraview.org).
 
 ![Picture of a simulation non inflated.](https://github.com/LeDernier/porcupinefish/blob/master/img/PoissonComplet.png)
 
