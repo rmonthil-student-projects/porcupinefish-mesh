@@ -38,7 +38,7 @@ inflate = 1;
 
 And reload the file using gmsh. It may take a while.
 
-## Results using OpenFOAM as a solver
+## Results using OpenFOAM and Paraview
 
 This images are here to show that the mesh generated could run in [OpenFOAM](https://www.openfoam.com). 
 The parameters used, choosen because of computation cost, did make the simulation physicaly incorect.
