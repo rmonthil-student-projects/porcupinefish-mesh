@@ -1,4 +1,4 @@
-# Porcupinefish modelisation for Computation Fluid Dynamics
+# Porcupinefish mesh for Computation Fluid Dynamics
 
 Originally a school project at the INP-ENSEEIHT engineering school. The aim was to create a mesh representing the desired object that a solver could run with.
 
